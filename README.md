@@ -1,6 +1,5 @@
 Welcome to My GitHub Profile!
 
-About Me
 Hello there! I'm Alex Njuguna K, a passionate software developer with a keen interest in web scraping and software development. I love working with JavaScript, Python, HTML, and CSS to build robust and user-friendly web applications. My primary focus lies in utilizing the Django and Scrapy frameworks to create powerful and efficient solutions.
 
 Projects
