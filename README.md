@@ -6,25 +6,25 @@ Projects
 Here are some of the exciting projects you can find in this repository:
 
 1. Ujamaa
-Description: Social media app that allows uploads, comments and reactions.
-
-Technologies: django, python, js, html, css.
-
-GitHub Repository: (https://github.com/alex-njuguna/ujamaa).
+    Description: Social media app that allows uploads, comments and reactions.
+    
+    Technologies: django, python, js, html, css.
+    
+    GitHub Repository: (https://github.com/alex-njuguna/ujamaa).
 
 2. book scrapper
-Description: This is an ongoing project that scraps books from a test website.
-
-Technologies: scrapy, python.
-
-GitHub Repository: (https://github.com/alex-njuguna/bookscraper).
+    Description: This is an ongoing project that scraps books from a test website.
+    
+    Technologies: scrapy, python.
+    
+    GitHub Repository: (https://github.com/alex-njuguna/bookscraper).
 
 3. online market
-Description: This is a online market place where users can buy and sell commodities.
-
-Technologies: python, django.
-
-GitHub Repository: (https://github.com/alex-njuguna/online-market).
+    Description: This is a online market place where users can buy and sell commodities.
+    
+    Technologies: python, django.
+    
+    GitHub Repository: (https://github.com/alex-njuguna/online-market).
 
 
 Interests
