@@ -30,6 +30,18 @@ Here are some of the exciting projects you can find in this repository:
 Interests
 I'm deeply passionate about software development and enjoy exploring innovative ways to create efficient and elegant solutions. I find web scraping fascinating and believe it offers valuable insights for a wide range of applications.
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=alex-njuguna&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-njuguna&theme=blue-green)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=alex-njuguna)
+
+
+
+
+
+
+
 Connect With Me
 You can find me on various platforms. Let's connect and learn from each other:
 
