@@ -1,5 +1,6 @@
 # Hi there 👋
-I'm a web developer with a passion for building impactful programs. I'm currently working on a study portal, an ecommerce for farm products and feeds, and a Unix Shell Replica.
+I'm Alex,
+I'm a software developer with a passion for building impactful programs and open source contribution.
 
 ## 🛠️ Skills
 
