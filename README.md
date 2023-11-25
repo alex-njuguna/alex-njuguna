@@ -6,7 +6,7 @@ I'm a web developer with a passion for building impactful programs. I'm currentl
 - Frameworks: Django, React JS, Bootstrap
 
 ## 📈 Projects
-1. [Study Portal](git@github.com:alex-njuguna/study-portal.git): A web application for students to access study materials.
+1. [Study Portal](https://github.com/alex-njuguna/study-portal.git): A web application for students to access study materials.
 2. [Farm Products and Feeds](https://github.com/alex-njuguna/Farmers-Market-Ecommerce.git): An ecommerce platform for farm products and feeds.
 3. [Unix Shell Replica](https://github.com/alex-njuguna/simple_shell.git): A replica of the Unix shell.
 
