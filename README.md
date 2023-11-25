@@ -2,8 +2,15 @@
 I'm a web developer with a passion for building impactful programs. I'm currently working on a study portal, an ecommerce for farm products and feeds, and a Unix Shell Replica.
 
 ## 🛠️ Skills
-- Languages: C, Python, JavaScript, HTML, CSS
-- Frameworks: Django, React JS, Bootstrap
+
+   - HTML & CSS
+   - JavaScript
+   - React
+   - Python (Django)
+   - Ruby (Ruby on rails)
+   - REST API development in Python(Django)
+   - Consuming REST APIs
+
 
 ## 📈 Projects
 1. [Study Portal](https://github.com/alex-njuguna/study-portal.git): A web application for students to access study materials.
