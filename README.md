@@ -1,45 +1,16 @@
-Welcome to My GitHub Profile!
+# Hi there 👋
+I'm a web developer with a passion for building impactful programs. I'm currently working on a study portal, an ecommerce for farm products and feeds, and a Unix Shell Replica.
 
-Hello there! I'm Alex Njuguna K, a passionate software developer with a keen interest in web scraping and software development. I love working with JavaScript, Python, HTML, and CSS to build robust and user-friendly web applications. My primary focus lies in utilizing the Django and Scrapy frameworks to create powerful and efficient solutions.
+## 🛠️ Skills
+- Languages: C, Python, JavaScript, HTML, CSS
+- Frameworks: Django, React JS, Bootstrap
 
-Projects
-Here are some of the exciting projects you can find in this repository:
+## 📈 Projects
+1. [Study Portal](git@github.com:alex-njuguna/study-portal.git): A web application for students to access study materials.
+2. [Farm Products and Feeds](https://github.com/alex-njuguna/Farmers-Market-Ecommerce.git): An ecommerce platform for farm products and feeds.
+3. [Unix Shell Replica](https://github.com/alex-njuguna/simple_shell.git): A replica of the Unix shell.
 
-1. Ujamaa
-    Description: Social media app that allows uploads, comments and reactions.
-    
-    Technologies: django, python, js, html, css.
-    
-    GitHub Repository: (https://github.com/alex-njuguna/ujamaa).
-
-2. book scrapper
-    Description: This is an ongoing project that scraps books from a test website.
-    
-    Technologies: scrapy, python.
-    
-    GitHub Repository: (https://github.com/alex-njuguna/bookscraper).
-
-3. online market
-    Description: This is a online market place where users can buy and sell commodities.
-    
-    Technologies: python, django.
-    
-    GitHub Repository: (https://github.com/alex-njuguna/online-market).
-
-
-Interests
-I'm deeply passionate about software development and enjoy exploring innovative ways to create efficient and elegant solutions. I find web scraping fascinating and believe it offers valuable insights for a wide range of applications.
-
-
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-njuguna&theme=blue-green)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=alex-njuguna)
-
-
-
-
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=alex-njuguna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 
 Connect With Me
@@ -48,6 +19,7 @@ You can find me on various platforms. Let's connect and learn from each other:
 GitHub: alex-njuguna
 LinkedIn: (https://www.linkedin.com/in/alex-njuguna-k/)
 Email: njugunakinuthia013@gmail.com
+portfolio: https://alex-njuguna.github.io/
 Feel free to explore my repositories and projects. Don't forget to leave a star if you find anything interesting or useful!
 
 Thank you for visiting my GitHub profile, and I'm looking forward to collaborating with you on exciting projects! Happy coding! 🚀
