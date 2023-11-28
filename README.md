@@ -18,7 +18,6 @@ I'm a software developer with a passion for building impactful programs and open
 2. [Farm Products and Feeds](https://github.com/alex-njuguna/Farmers-Market-Ecommerce.git): An ecommerce platform for farm products and feeds.
 3. [Unix Shell Replica](https://github.com/alex-njuguna/simple_shell.git): A replica of the Unix shell.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=alex-njuguna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 
 Connect With Me
