@@ -24,6 +24,8 @@ I'm a software developer with a passion for building impactful programs and open
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-njuguna)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-njuguna&hide=contribs,prs)
+
 Connect With Me
 You can find me on various platforms. Let's connect and learn from each other:
 
