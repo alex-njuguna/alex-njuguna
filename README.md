@@ -20,7 +20,9 @@ I'm a software developer with a passion for building impactful programs and open
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alex-njuguna&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-njuguna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=effiecancode&langs_count=8&layout=compact&theme=tokyonight&hide=html,css,ejs,php,C,vue,hack,Assembly,puppet,ruby,jupyter%20notebook,shell,c%2B%2B"/>
+</div>
 
 Connect With Me
 You can find me on various platforms. Let's connect and learn from each other:
