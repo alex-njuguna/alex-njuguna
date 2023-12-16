@@ -21,7 +21,7 @@ I'm a software developer with a passion for building impactful programs and open
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alex-njuguna&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <div align="left">
-  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-njuguna&langs_count=4&layout=compact&theme=tokyonight&hide=html,css,php,hack,Assembly,puppet,c%2B%2B"/>
+  <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-njuguna&langs_count=5&layout=compact&theme=tokyonight&hide=html,css,php,hack,Assembly,puppet,c%2B%2B"/>
 </div>
 
 <hr>
