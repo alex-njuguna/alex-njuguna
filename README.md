@@ -1,4 +1,4 @@
-#  **William Raga's profile**
+#  **Alex Njuguna's profile**
 
 - 👋 Hi, I’m <mark>**Alex Njuguna**</mark>
 - 👀 I’m interested in <mark>Web Programming</mark> and Software Engineering.
