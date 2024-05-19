@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m <mark>**Alex Njuguna**</mark>
 - 👀 I’m interested in <mark>Web Programming</mark> and blockchain and smart contracts.
-- 🌱 I’m currently learning the `solidity and smart contracts`.
+- 🌱 I’m currently learning `solidity and smart contracts`.
 - 💞️ I’m looking to collaborate on `EVERYTHING`.
 - 📫 Reach me by <!--[Mobile No](0727433148) or text via--> [Email](njugunakinuthia013@gmail.com).
 
