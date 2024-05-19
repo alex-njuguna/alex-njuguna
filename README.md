@@ -1,20 +1,14 @@
 #  **Alex Njuguna's profile**
 
 - 👋 Hi, I’m <mark>**Alex Njuguna**</mark>
-- 👀 I’m interested in <mark>Web Programming</mark> and Software Engineering.
-- 🌱 I’m currently learning the `ReactJS` library.
-- 💞️ I’m looking to collaborate on `Django` to develop API's and on `React & Redux` development projects for front-end and consuming the API endpoints.
+- 👀 I’m interested in <mark>Web Programming</mark> and blockchain and smart contracts.
+- 🌱 I’m currently learning the `solidity and smart contracts`.
+- 💞️ I’m looking to collaborate on `EVERYTHING`.
 - 📫 Reach me by <!--[Mobile No](0727433148) or text via--> [Email](njugunakinuthia013@gmail.com).
 
 ## Specialization
 
-- HTML & CSS
-- JavaScript
-- React & Redux
-- Python (Django)
-- Ruby (Ruby on rails)
-- REST API development in JavaScript(ExpressJS) and Python(Django)
-- Consuming REST APIs
+- FULL STACK DEVELOPMENT
 
 
 ## GitHub Stats
