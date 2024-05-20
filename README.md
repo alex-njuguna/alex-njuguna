@@ -1,10 +1,10 @@
-#  **Alex Njuguna's profile**
+#  **Alex Kinuthia's profile**
 
-- 👋 Hi, I’m <mark>**Alex Njuguna**</mark>
-- 👀 I’m interested in <mark>Web Programming</mark> and blockchain and smart contracts.
+- 👋 Hi, I’m `**Alex Njuguna Kinuthia**`
+- 👀 I’m interested in `Web Programming, blockchain` and `smart contracts`.
 - 🌱 I’m currently learning `solidity and smart contracts`.
 - 💞️ I’m looking to collaborate on `EVERYTHING`.
-- 📫 Reach me by <!--[Mobile No](0727433148) or text via--> [Email](njugunakinuthia013@gmail.com).
+- 📫 Reach me by [`Mobile No`](0727433148) or text via [`Email`](njugunakinuthia013@gmail.com).
 
 ## Specialization
 
@@ -13,7 +13,8 @@
 
 ## GitHub Stats
 
-<!--![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-njuguna&show_icons=true&theme=radical)-->
+<!-- ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-njuguna&show_icons=true&theme=radical) -->
+
 
 ## Languages
 
