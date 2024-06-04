@@ -1,7 +1,7 @@
 #  **Alex Kinuthia's profile**
 
 - 👋 Hi, I’m `**Alex Njuguna Kinuthia**`
-- 👀 I’m interested in `Web Programming, blockchain` and `smart contracts`.
+- 👀 I’m interested in `Web & desktop systems development, blockchain` and `smart contracts`.
 - 🌱 I’m currently learning `solidity and smart contracts`.
 - 💞️ I’m looking to collaborate on `EVERYTHING`.
 - 📫 Reach me by [`Mobile No`](0727433148) or text via [`Email`](njugunakinuthia013@gmail.com).
