@@ -1,7 +1,9 @@
 #  **Alex Njuguna Kinuthia's profile**
 
 - 👋 Hi, I’m **Alex Njuguna Kinuthia**
-- 👀 I’m interested in `Solutions` and `Systems Design` & `Development, Data Science` and `analytics`.
+- 👀 I’m interested in:
+    - `Solutions` and `Systems Design` & `Development`
+    - `Data Science` and `analytics`.
 - 🌱 I’m currently learning `Deep learning`.
 - 💞️ I’m looking to collaborate on `EVERYTHING`.
 - 📫 Reach me by [`Mobile No`](0727433148) or text via [`Email`](njugunakinuthia013@gmail.com).
