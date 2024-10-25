@@ -1,4 +1,4 @@
-#  **Alex Kinuthia's profile**
+#  **Alex Njuguna Kinuthia's profile**
 
 - 👋 Hi, I’m **Alex Njuguna Kinuthia**
 - 👀 I’m interested in `Solutions and systems development, Data Science` and `analytics`.
@@ -8,8 +8,8 @@
 
 ## Specialization
 
-- SOFTWARE DEVELOPMENT
-- DATA SCIENCE & ANALYTICS
+- **Software Development**
+- **Data Science & Analytics**
 
 
 ## GitHub Stats
